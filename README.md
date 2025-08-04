@@ -1,6 +1,7 @@
 ## About me.
-- 🖥️ I'm a Systems Engineering student (expected graduation: 2026)  
-- 🏛️ Studying at Instituto Tecnológico Superior de Apatzingán (ITSA), Mexico  
-- ☕ Currently tinkering with... whatever comes to my mind.
-- ❤️ Passionate about new ideas and helping the community
+- ☕ Systems Engineering student (expected graduation: 2026)
+- 🖥️ Specialization in mobile and web development
+- 🔬 Passionate about learning, new ideas, and helping the community
+
+₍^. .^₎⟆
 <!-- based on [shadforth](https://github.com/shadforth/shadforth) -->
