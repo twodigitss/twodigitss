@@ -1,6 +1,4 @@
-## About me.
--  Systems Engineering student (expected graduation: 2026)
--  Specialization in mobile and web development
--  Passionate about learning, new ideas, and helping the community
-𖹭.ᐟ
-<!-- based on [shadforth](https://github.com/shadforth/shadforth) -->
+<div style="display:grid; gap:0; padding:0; margin:0;">
+    <p style="margin-bottom: 0;">My name is <strong>Enrique</strong>.</p>
+    <p>JR Systems Engineer</p>
+</div>
