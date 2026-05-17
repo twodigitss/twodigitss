@@ -1,10 +1,20 @@
 ENRIQUE TORRES
-SYSTEMS ENGINEER/
+Frontend / Fullstack developer. Delivered two production modules 
+at ArcelorMittal Mexico. Building in Go and TypeScript.
+
+[Stack]
+TypeScript · Angular · Go · PostgreSQL · .NET Core
 
 ---
 
-CONTACT: LUIS@LTORRES.DEV
-LOCATION: MEX
-STATUS: ONLINE
+CONTACT: luis@ltorres.dev
+LOCATION: mex
 
 ---
+
+[Projects]
+→ Pageper — Firefox extension, live on Mozilla Add-ons
+→ portfolio.ltorres.dev — work & contact
+
+[Ongoing]
+Currently: ReservGo — restaurant reservation API (Go/Gin, pgxpool, Supabase)
